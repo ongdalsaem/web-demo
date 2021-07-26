@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+}
+
+.nav-con {
+    text-align: center;
+    width: 80%;
+    
+}
+
+.nav-con img {
+    width: 80%;
+    display: block;
+}
